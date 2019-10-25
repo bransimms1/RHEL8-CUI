@@ -135,7 +135,7 @@ package_firewalld_installed: true
 package_gssproxy_removed: true
 package_iprutils_removed: true
 package_iptables_installed: true
-package_libreswan_installed: true
+package_libreswan_installed: false
 package_policycoreutils_installed: true
 package_rsyslog_installed: true
 package_sendmail_removed: true
