@@ -89,7 +89,7 @@ grub2_audit_backlog_limit_argument: true
 grub2_disable_interactive_boot: true
 grub2_page_poison_argument: true
 grub2_pti_argument: true
-grub2_slub_debug_argument: true
+grub2_slub_debug_argument: false
 grub2_vsyscall_argument: true
 high_disruption: true
 high_severity: true
