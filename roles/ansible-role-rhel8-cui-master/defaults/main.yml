@@ -128,7 +128,7 @@ mount_option_var_tmp_nosuid: true
 no_empty_passwords: true
 no_reboot_needed: true
 package_abrt_removed: true
-package_aide_installed: true
+package_aide_installed: false
 package_audit_installed: true
 package_fapolicyd_installed: false
 package_firewalld_installed: true
