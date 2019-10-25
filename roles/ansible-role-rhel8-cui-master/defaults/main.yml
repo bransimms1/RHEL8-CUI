@@ -142,7 +142,7 @@ package_sendmail_removed: true
 package_sudo_installed: true
 package_tmux_installed: true
 package_tuned_removed: true
-package_usbguard_installed: true
+package_usbguard_installed: false
 reboot_required: true
 require_singleuser_auth: true
 restrict_strategy: true
