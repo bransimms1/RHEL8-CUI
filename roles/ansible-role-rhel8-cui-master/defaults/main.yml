@@ -138,7 +138,7 @@ package_iptables_installed: true
 package_libreswan_installed: false
 package_policycoreutils_installed: true
 package_rsyslog_installed: true
-package_sendmail_removed: true
+package_sendmail_removed: false
 package_sudo_installed: true
 package_tmux_installed: true
 package_tuned_removed: true
